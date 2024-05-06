@@ -3,11 +3,11 @@
 # About Me
 
 **ENG**
-> I'm a front-end engineer with a strong passion for learning new technologies. I believes that curiosity is the gateway to learning anything. I am addicted to learning about everything which has helped me tremendously in my career.
+> I'm a front-end engineer with a strong passion for learning new technologies.
 
 
 **FA**
-> من یک توسعه دهنده فرانت اند هستم و علاقه شدیدی به یادگیری تکنولوژی های جدید دارم، معتقدم که کنجکاوی دری به سوی یادگیری هر چیزی هست، این اعتیاد به یادگیری بهم کمک کرده تا چیزهای فوق العاده ای که برای این حرفه نیازه فرا بگیرم.
+> من یک توسعه دهنده فرانت اند هستم که به دنبال فرصت هایی برای یادگیری و رشد هستم .
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,react,git,github)](https://AidaHashemi.github.io/cv/)
