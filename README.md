@@ -3,11 +3,9 @@
 # About Me
 
 **ENG**
-> I'm a front-end engineer with a strong passion for learning new technologies.
+> I'm a front-end engineer with a strong passion for learning new technologies.I enjoy teamwork and collaboration,and always looking for ways to improve my skills.
 
 
-**FA**
-> من یک توسعه دهنده فرانت اند هستم که به دنبال فرصت هایی برای یادگیری و رشد هستم .
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,react,git,github)](https://AidaHashemi.github.io/cv/)
