@@ -1,10 +1,11 @@
-## Hi there 👋
+
+<h1>Hi 👋, I'm Aida Hashemi</h1>
 
 # About Me
 
-**ENG**
-> I'm a front-end engineer with a strong passion for learning new technologies.I enjoy teamwork and collaboration,and always looking for ways to improve my skills.
+> I'm a front-end engineer with a strong passion for learning new technologies.I enjoy teamwork and collaboration,and always looking for ways to improve my skills.>
 
+- 🤝 You can contact me at **aidahashemiam@gmail.com**
 
 
 ## Skills
