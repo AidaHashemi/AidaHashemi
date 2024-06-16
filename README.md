@@ -5,7 +5,7 @@
 
 > I'm a front-end engineer with a strong passion for learning new technologies.I enjoy teamwork and collaboration,and always looking for ways to improve my skills.>
 
-- 🤝 You can contact me at **aidahashemiam@gmail.com**
+- 🤝 You can contact me at **aidahashemiam@gmail.com** and **in/aida-hashemi-a06390297**
 
 
 ## Skills
