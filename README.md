@@ -6,7 +6,7 @@
 > I'm a front-end engineer with a strong passion for learning new technologies.I enjoy teamwork and collaboration,and always looking for ways to improve my skills.>
 
 - 🤝 You can contact me at **aidahashemiam@gmail.com**
-- '[my LinkedIn profile](https://www.linkedin.com/in/aida-hashemi-a06390297)'
+- [My LinkedIn Profile](https://www.linkedin.com/in/aida-hashemi-a06390297)
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,react,git,github)](https://AidaHashemi.github.io/cv/)
