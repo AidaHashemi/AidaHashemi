@@ -1,19 +1,26 @@
-
 <h1 align="center">Hi 👋, I'm Aida Hashemi</h1>
 
-## About Me  
-I'm a **Front-End Engineer** with a strong passion for learning new technologies.  
-I thrive in **teamwork & collaboration** and constantly seek opportunities to enhance my skills.  
-
-📩 **Let's Connect:**  
-- 📧 Email: [aidahashemiam@gmail.com](mailto:aidahashemiam@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/aida-hashemi-a06390297)  
+<p align="center">
+  <strong>Front-End Engineer | Passionate about Modern Web Technologies</strong>
+</p>
 
 ---
 
-## 🚀 Skills  
+## 🚀 About Me  
+🌱 I'm a **Front-End Engineer** with a strong passion for **learning new technologies** and **building engaging user experiences**.  
+🤝 I enjoy **collaborating** with teams and constantly seek opportunities to **improve my skills**.
+
+📫 **Let's Connect:**  
+[![Email](https://img.shields.io/badge/Email-aidahashemiam@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:aidahashemiam@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aida-hashemi-a06390297)  
+
+---
+
+## 🛠 Skills  
+### 💻 Technologies & Tools  
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,react,git,github,figma)](https://AidaHashemi.github.io/cv/)
 
+### 🔹 Core Skills  
 - **Programming & Frameworks:**  
   - JavaScript (ES6)  
   - React  
@@ -28,7 +35,21 @@ I thrive in **teamwork & collaboration** and constantly seek opportunities to en
 
 ---
 
-🌱 *Always eager to explore new technologies and build amazing user experiences!*  
+## 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AidaHashemi&show_icons=true&theme=radical" width="48%" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AidaHashemi&theme=radical" width="48%" alt="GitHub Streak">
+</p>
+
+---
+
+### 🔥 Fun Fact  
+🎨 I love working on **creative UI designs** and exploring **new front-end frameworks**!  
+
+---
+
+🚀 *Always eager to explore new technologies and craft amazing user experiences!*  
+
 
 
 <!--
