@@ -37,9 +37,14 @@
 
 ## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AidaHashemi&show_icons=true&theme=radical" width="48%" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AidaHashemi&theme=radical" width="48%" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=AidaHashemi&show_icons=true&theme=radical&hide=contribs,prs&count_private=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AidaHashemi&theme=radical" width="45%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AidaHashemi&layout=compact&theme=radical" width="45%" />
+</p>
+
 
 ---
 
