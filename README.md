@@ -13,7 +13,7 @@
 
 📫 **Let's Connect**  
 [![Email](https://img.shields.io/badge/Email-aidahashemiam@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:aidahashemiam@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aida_Hashemi-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aida-hashemi-a06390297)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aida_Hashemi-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aida-hashemi-a06390297)  
 [![Instagram](https://img.shields.io/badge/Instagram-@httpdotcoms-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/httpdotcoms)
 
 ---
