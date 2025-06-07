@@ -18,7 +18,7 @@
 
 <table>
 <tr>
-<td width="60%">
+<td width="65%" valign="top">
 
 ### 🚀 **What I Do**
 
@@ -38,8 +38,8 @@ const aida = {
 </div>
 
 </td>
-<td width="40%">
-<img align="right" alt="Coding" width="350" height="280" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<td width="35%" valign="top">
+<img alt="Coding" width="100%" height="280" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" style="max-width: 300px;">
 </td>
 </tr>
 </table>
@@ -163,11 +163,11 @@ const aida = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30"> **Always coding, always creating!** <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30">
 
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=AidaHashemi&color=FF6B9D&style=for-the-badge&label=PROFILE+VIEWS" />
 
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 
