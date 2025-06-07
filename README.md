@@ -16,8 +16,7 @@
 
 <br>
 
-<table>
-<tr>
+
 <td width="65%" valign="top">
 
 ### 🚀 **What I Do**
@@ -37,12 +36,8 @@ const aida = {
 
 </div>
 
-</td>
-<td width="35%" valign="top">
-<img alt="Coding" width="100%" height="280" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" style="max-width: 300px;">
-</td>
-</tr>
-</table>
+
+
 
 <br clear="both"/>
 
