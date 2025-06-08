@@ -27,7 +27,7 @@
 
 <table>
   <tr>
-    <td style="text-align: center;">Attribute</td>
+    <td style="text-align: center;"><strong>Attribute</strong></td>
     <td style="text-align: center;">Description</td>
   </tr>
   <tr>
