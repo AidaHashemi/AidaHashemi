@@ -71,7 +71,7 @@
 ### 🎨 **Frontend Mastery**
 <br>
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap" />
 </p>
 
 ### 🛠️ **Development Tools**
