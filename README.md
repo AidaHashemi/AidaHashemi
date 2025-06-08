@@ -21,54 +21,24 @@
 
 <br>
 
-## 🚀 About Me
+## 💫 Who Am I?
 
 <br>
 
-<table>
-<tr>
-<td width="50%">
-
-### 💫 Who Am I?
-
-```typescript
-const AidaHashemi = {
-    role: "Frontend Engineer",
-    location: "🌍 Global Remote",
-    languages: ["JavaScript", "TypeScript", "CSS", "HTML"],
-    passion: ["Clean Code", "User Experience", "Innovation"],
-    currentFocus: "Full-Stack Development",
-    lifePhilosophy: "Code is poetry in motion ✨"
-};
-```
-
-</td>
-<td width="50%">
-
-### 🎯 Current Mission
-
-- 🔥 **Mastering** advanced React patterns & performance optimization
-- 🌐 **Building** scalable full-stack applications with MERN
-- 🎨 **Creating** pixel-perfect, accessible user interfaces
-- 🚀 **Contributing** to open-source community
-- 📚 **Learning** Next.js, TypeScript, and cloud technologies
-
-</td>
-</tr>
-</table>
-
-</div>
-
-
-<div align="center">   
+| Attribute | Description |
+|-----------|-------------|
+| **Role** | Frontend Engineer |
+| **Location** | 🌍 Global Remote |
+| **Languages** | JavaScript, TypeScript, CSS, HTML |
+| **Passion** | Clean Code, User Experience, Innovation |
+| **Current Focus** | Full-Stack Development |
+| **Life Philosophy** | Code is poetry in motion ✨ |
 
 <br>
-    
+
 ## 🛠️ Tech Stack & Tools
 
 <br>
-
-<div align="center">
 
 ### 🔥 **Core Technologies**
 <br>
@@ -92,11 +62,7 @@ const AidaHashemi = {
 
 <br>
 
-</div>
-
 <div align="center">
-
-<br>
 
 ## 📊 GitHub Analytics
 
@@ -123,8 +89,7 @@ const AidaHashemi = {
 </tr>
 </table>
 
-<br>  
-
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=AidaHashemi&theme=tokyonight&hide_border=true&stroke=6366f1&ring=06b6d4&fire=f59e0b&currStreakLabel=6366f1">
@@ -158,8 +123,6 @@ const AidaHashemi = {
 
 </div>
 
-
-
 <div align="center">
 
 <br>
@@ -170,29 +133,34 @@ const AidaHashemi = {
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="30%">
 
 ### 🎯 Clean Code
 *"Code is read more than it's written"*
 
 Writing maintainable, readable code that speaks for itself
 
-</td>
-<td align="center" width="33%">
+<br>
 
+</td>
+<td align="center" width="30%">
 
 ### 🚀 Performance
 *"Every millisecond matters"*
 
 Optimizing for speed, accessibility, and user experience
 
+<br>
+
 </td>
-<td align="center" width="33%">
+<td align="center" width="30%">
 
 ### 🌱 Growth
 *"Never stop learning"*
 
 Embracing challenges and staying curious about new technologies
+
+<br>
 
 </td>
 </tr>
