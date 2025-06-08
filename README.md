@@ -27,8 +27,8 @@
 
 <table>
   <tr>
-    <th style="text-align: center;">Attribute</th>
-    <th style="text-align: center;">Description</th>
+    <td style="text-align: center;">Attribute</td>
+    <td style="text-align: center;">Description</td>
   </tr>
   <tr>
     <td style="text-align: center;"><strong>Role</strong></td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td style="text-align: center;"><strong>Languages</strong></td>
-    <td style="text-align: center;">JavaScript, TypeScript, CSS, HTML</td>
+    <td style="text-align: center;">JavaScript</td>
   </tr>
   <tr>
     <td style="text-align: center;"><strong>Passion</strong></td>
