@@ -25,14 +25,36 @@
 
 <br>
 
-| Attribute | Description |
-|-----------|-------------|
-| **Role** | Frontend Engineer |
-| **Location** | 🌍 Global Remote |
-| **Languages** | JavaScript, TypeScript, CSS, HTML |
-| **Passion** | Clean Code, User Experience, Innovation |
-| **Current Focus** | Full-Stack Development |
-| **Life Philosophy** | Code is poetry in motion ✨ |
+<table>
+  <tr>
+    <th style="text-align: center;">Attribute</th>
+    <th style="text-align: center;">Description</th>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><strong>Role</strong></td>
+    <td style="text-align: center;">Frontend Engineer</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><strong>Location</strong></td>
+    <td style="text-align: center;">🌍 Global Remote</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><strong>Languages</strong></td>
+    <td style="text-align: center;">JavaScript, TypeScript, CSS, HTML</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><strong>Passion</strong></td>
+    <td style="text-align: center;">Clean Code, User Experience, Innovation</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><strong>Current Focus</strong></td>
+    <td style="text-align: center;">Full-Stack Development</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><strong>Life Philosophy</strong></td>
+    <td style="text-align: center;">Code is poetry in motion ✨</td>
+  </tr>
+</table>
 
 <br>
 
